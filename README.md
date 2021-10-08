@@ -4,24 +4,24 @@ This is a React implementation that simulates 20 scrolling types. It's a simple,
 
 ## Demo 
 
-![Demo gif](./demo.gif)
+![Demo gif](https://github.com/felipe1234-dev/react-scrolling-effects/raw/main/demo.gif)
 
 * Test in CodeSandbox - [Click here](https://8xje1.csb.app/)
 * Inspired by ❤️ [Easing Functions Cheat Sheet](https://easings.net/)
 
 ## Getting Started
 
-Use your favorite package manager to install **scrolling-effects**.
+Use your favorite package manager to install **react-scrolling-effects**.
 
 ```bash
-npm install scrolling-effects
+npm install react-scrolling-effects
 # or
-yarn add scrolling-effects
+yarn add react-scrolling-effects
 ```
 Import the ```scroll``` function and an effect that you like (in this example, we're gonna use ```smoothstep``` effect):
  
 ```javascript
-import { scroll, smoothstep } from "scrolling-effects";
+import { scroll, smoothstep } from "react-scrolling-effects";
 ```
 Link it to a component click event:
 

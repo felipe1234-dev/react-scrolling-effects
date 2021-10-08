@@ -1,7 +1,7 @@
 {
     "name": "react-scrolling-effects",
-    "version": "0.1.0",
-    "description": "A simple, customizable and easy-to-use React package to make scroll animation with over 20 anim types",
+    "version": "0.3.0",
+    "description": "A simple, customizable and easy-to-use React package to make scroll animation with over 20 types",
     "homepage": "https://github.com/felipe1234-dev/react-scrolling-effects",
     "keywords": [
         "scroll",
