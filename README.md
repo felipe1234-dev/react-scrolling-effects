@@ -85,7 +85,7 @@ Alternatively, you can also make it scroll some pixels instead of to a specific 
 * ```duration```: ```Number```. The time in milliseconds that the scrolling animation will take to finish. **Default**: ```500```ms.
 * ```effect```: ```func = (x: Number) => Number```. You need to import an animation effect from the library and input it in ```effect``` prop. You may also create custom scrolling effects if you want. **Default**: Smoothstep.
 * ```yAxis```: ```Boolean```. Check if the container will be scrolled vertically/on the y-axis. **Default**: ```true```.
-* ```xAxis```: ```Boolean```. Check if the container will be scrollable horizontally/on the x-axis. **Default**: ```false```.
+* ```xAxis```: ```Boolean```. Check if the container will be scrolled horizontally/on the x-axis. **Default**: ```false```.
 
 ### Effects
 * **smoothstep**;
